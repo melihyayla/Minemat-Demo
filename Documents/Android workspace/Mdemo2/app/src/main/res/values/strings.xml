@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mdemo2</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Şifre</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Giriş yap</string>
+    <string name="error_invalid_email" translatable="false">Email adresi geçersiz!</string>
+    <string name="error_field_required" translatable="false">Bu alan gereklidir</string>
+    <string name="permission_rationale" translatable="false">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="string">Giriş Yap</string>
+    <string name="error_incorrect_password" translatable="false">Şifre yanlış!</string>
+    <string name="error_invalid_password" translatable="false">Şifre çok kısa</string>
+    <string name="minemat_hesabin_yok_mu">Minemat hesabin yok mu ?</string>
+    <string name="kayit_ol">Kayit Ol.</string>
+    <string name="minemat">Minemat</string>
+</resources>
